@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I'm Ju1y. I'm a cyber security enthusiast and independent researcher.
+Hi, I'm Ju1y. I'm a cyber security enthusiast and a independent researcher.
 - OSCE³ | OSCP | OSEP | OSWE | OSED
 - Blog: https://www.ju1y.top
 - X: https://x.com/Jack_Ju1y
