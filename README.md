@@ -1,10 +1,10 @@
-## Hi there 👋
+## Hi, I'm Ju1y 👋
 
-Hi, I'm Ju1y. I'm a cyber security enthusiast and a independent researcher.
+I'm an ethical hacker, an independent researcher and an open sourcerer.🧑🏻‍💻
 - OSCE³ | OSCP | OSEP | OSWE | OSED
 - Blog: https://www.ju1y.top
 - X: https://x.com/Jack_Ju1y
-- Reddit: https://www.reddit.com/user/Jackey-M/
+- Reddit: https://www.reddit.com/user/Jackey-M
 - Contact me: ju1y0x0@proton.me
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=JackJuly&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
