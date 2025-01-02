@@ -9,6 +9,9 @@ Hi, I'm Ju1y. I'm a cyber security enthusiast and a independent researcher.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=JackJuly&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=JackJuly&theme=vue
+
+
 <!--
 **JackJuly/JackJuly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
